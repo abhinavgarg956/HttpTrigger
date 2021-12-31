@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dellater", "dellater\dellater.csproj", "{656BF6BD-2A7F-4ED8-BD13-01A669FA9251}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject1", "TestProject1\TestProject1\TestProject1.csproj", "{8A58767A-0C44-4FD3-9C93-B1198F45D489}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{656BF6BD-2A7F-4ED8-BD13-01A669FA9251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{656BF6BD-2A7F-4ED8-BD13-01A669FA9251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{656BF6BD-2A7F-4ED8-BD13-01A669FA9251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{656BF6BD-2A7F-4ED8-BD13-01A669FA9251}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A58767A-0C44-4FD3-9C93-B1198F45D489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A58767A-0C44-4FD3-9C93-B1198F45D489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A58767A-0C44-4FD3-9C93-B1198F45D489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A58767A-0C44-4FD3-9C93-B1198F45D489}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61C8E5C9-B281-42CC-8CA9-C7F0DB2E073B}
+	EndGlobalSection
+EndGlobal
